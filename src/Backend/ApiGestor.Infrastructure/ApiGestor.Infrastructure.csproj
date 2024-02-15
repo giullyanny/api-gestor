@@ -2,8 +2,11 @@
   <ItemGroup>
     <ProjectReference Include="..\ApiGestor.Domain\ApiGestor.Domain.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.28" />
+  </ItemGroup>
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
