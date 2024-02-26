@@ -28,7 +28,9 @@
 				"ms-dotnettools.csdevkit",
 				"christian-kohler.path-intellisense",
 				"kreativ-software.csharpextensions",
-				"fernandoescolar.vscode-solution-explorer"
+				"fernandoescolar.vscode-solution-explorer",
+				"jchannon.csharpextensions",
+				"eamodio.gitlens"
 			]
 		}
 	}
